@@ -55689,3 +55689,7 @@
 [Tue Dec 27 12:18:22 2016] [debug] Routing to a callback
 [Tue Dec 27 12:18:22 2016] [debug] Rendering cached template "index.html.ep"
 [Tue Dec 27 12:18:22 2016] [debug] 200 OK (0.000511s, 1956.947/s)
+[Fri Dec 30 07:22:06 2016] [debug] GET "/"
+[Fri Dec 30 07:22:06 2016] [debug] Routing to a callback
+[Fri Dec 30 07:22:06 2016] [debug] Rendering template "index.html.ep"
+[Fri Dec 30 07:22:06 2016] [debug] 200 OK (0.00175s, 571.429/s)
